@@ -4,7 +4,6 @@ SYSTEM_THREAD(ENABLED);
 #include "oled-wing-adafruit.h"
 OledWingAdafruit display;
 
-
 void setup()
 {
   display.setup();
